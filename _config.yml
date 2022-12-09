@@ -9,16 +9,16 @@
 lang: en-US
 
 # Site title
-title: "Scriptor"
+title: "Ramin's Blog"
 
 # A description of your site for meta tag, search engine results.
-description: "Scriptor is a minimal, clean, modern & responsive Jekyll theme for writers"
+description: "In this blog, I take you through my thought process, hobby projects that I have done and am working on, and teaching you on my experience and learnings."
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
 
 # The base hostname & protocol of your site for where absolute urls are needed.
-url: "https://scriptor-jekyll.netlify.com"
+url: "https://ramisich.github.io"
 
 # Favicon
 favicon: images/favicon.png
@@ -40,7 +40,7 @@ navigation:
     url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
 
 # The shortname for your Disqus site to enable comments.
-disqus: justgoodthemes
+disqus: ramsich
 
 # Colors
 accent_color: '#2d72d9'
