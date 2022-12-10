@@ -10,6 +10,11 @@
       "title": "Youtube",
       "icon": "fa-youtube",
       "url": "https://www.youtube.com/watch?v=gP6Ij3IhudE&list=PLRCvSNiMyEmyhBFNVSxj_nQsd75hkroGX&ab_channel=FrontendTips"
-    }
+    },
+    {
+      "title": "Facebook",
+      "icon": "fa-facebook",
+      "url": "https://www.facebook.com/codity.io"
+    },
   ]
 }
