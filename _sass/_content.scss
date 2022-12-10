@@ -20,10 +20,23 @@
 }
 
 .post-meta {
+  display: flex;
+  flex-wrap: wrap;
   font-family: _font(secondary);
   font-size: 0.88889rem;
   font-style: italic;
   margin-bottom: 1.11111rem;
+  width: 100%;
+}
+
+@media screen and (max-width: 768px) {
+  .post-meta > * {
+    flex-basis: 100%;
+    flex-shrink: 0;
+  }
+  .post-meta > *:last-child {
+    margin-top: 10px;
+  }
 }
 
 .post-tags {
