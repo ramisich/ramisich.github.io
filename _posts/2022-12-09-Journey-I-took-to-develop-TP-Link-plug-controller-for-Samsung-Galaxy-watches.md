@@ -42,6 +42,10 @@ After about 2 days of reading and experimenting I took a stab on writing the act
 The whole workflow is super simple. When you open the app on your watch, It searches for TP-Link plug, detects its IP address, gets the plug name, show it in the app with a switch that turns the plug on and off.
 Take a look at the video on how the app works in real life.
 
+## Demo
+Here is a demo of me working with the app to turn the lamp connected to the plug on the wall, on and off.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JDAjv9oCkUk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Further work
 I would like to put the app on the Galaxy store so that others can use it as well. It should be fairly simple since I already have put 2 similar apps in the store. One need to create a certificate using
 the tizen studio. The process is well documented in the Tizen documentation.
