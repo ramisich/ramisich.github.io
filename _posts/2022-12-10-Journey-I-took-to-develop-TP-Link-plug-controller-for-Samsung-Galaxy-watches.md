@@ -2,7 +2,7 @@
 layout: post
 title: "Journey I took to develop TP-Link plug controller for Samsung Galaxy watches"
 description: "In this post, I walk you through my thought process and system and coding to make it work."
-date: 2021-09-06
+date: 2022-12-10
 feature_image: images/tp-link-plug.png
 tags: [hobby, Samsung Gear s3, Galaxy watches, Home automation]
 ---
