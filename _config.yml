@@ -32,7 +32,7 @@ navigation:
     url: /
   - text: About
     url: /about
-  - text: Web
+  - text: "Web Editor"
     url: /web-editor
 
 
