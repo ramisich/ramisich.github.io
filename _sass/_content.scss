@@ -159,7 +159,7 @@
 /* Archive page */
 .archive-tags {
   font-style: italic;
-  a {
+  > a {
     margin-right: 5px;
     &:before {
       content: "\0023";
