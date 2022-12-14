@@ -32,6 +32,9 @@ navigation:
     url: /
   - text: About
     url: /about
+  - text: Web
+    url: /web-editor
+
 
 # The shortname for your Disqus site to enable comments.
 disqus: ramsich
