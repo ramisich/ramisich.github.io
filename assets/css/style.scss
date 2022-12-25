@@ -212,3 +212,8 @@ input.helper_text, input.mce_inline_error {
     font-size: 12px !important;
   }
 }
+
+code[class*="language-"],
+pre[class*="language-"]  {
+  font-family: 'Source Code Pro', monospace !important;
+}

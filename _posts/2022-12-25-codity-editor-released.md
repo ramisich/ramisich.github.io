@@ -38,9 +38,8 @@ a good ORM to make it easier to talk to the database and for that I found Prisma
 intriguing. It supports migrations, and it automatically applies
 them to the remote database. Following is the simplest example of the schema layout for Codity.
 
-```sql
-model
-User {
+<pre>
+<code class="language-javascript">model User {
   id            BigInt          @id @default(autoincrement())
   email         String          @unique
   password      String
@@ -62,7 +61,7 @@ model Prototype {
   author             User? @relation(fields: [authorId], references: [id])
   authorId           BigInt?
 }
-```
+</code></pre>
 
 The whole site is deployed to Netlify. Seriously what is better than that for the scope of this
 project at the moment.
