@@ -58,11 +58,13 @@ $palette: (
   margin: initial;
   padding: initial;
 }
+
 #carbonads {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
-    Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', Helvetica, Arial,
-    sans-serif;
+  Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', Helvetica, Arial,
+  sans-serif;
 }
+
 #carbonads {
   display: flex;
   max-width: 330px;
@@ -70,29 +72,36 @@ $palette: (
   box-shadow: 0 1px 4px 1px hsla(0, 0%, 0%, 0.1);
   z-index: 100;
 }
+
 #carbonads a {
   color: inherit;
   text-decoration: none;
 }
+
 #carbonads a:hover {
   color: inherit;
 }
+
 #carbonads span {
   position: relative;
   display: block;
   overflow: hidden;
 }
+
 #carbonads .carbon-wrap {
   display: flex;
 }
+
 #carbonads .carbon-img {
   display: block;
   margin: 0;
   line-height: 1;
 }
+
 #carbonads .carbon-img img {
   display: block;
 }
+
 #carbonads .carbon-text {
   font-size: 13px;
   padding: 10px;
@@ -100,6 +109,7 @@ $palette: (
   line-height: 1.5;
   text-align: left;
 }
+
 #carbonads .carbon-poweredby {
   display: block;
   padding: 6px 8px;
@@ -115,6 +125,90 @@ $palette: (
   bottom: 0;
   right: 0;
 }
+
 iframe {
   border: 1px solid #000;
+}
+
+#mc_embed_signup {
+  background: #f0f4fb;
+  border: 2px solid #c6d6ef;
+  border-radius: 10px;
+  margin-top: 40px;
+  padding: 10px 40px !important;
+
+}
+
+
+#mc_embed_signup h2 {
+  margin-bottom: 5px !important;
+  letter-spacing: 2px !important;
+}
+
+#mc_embed_signup p {
+  font-size: 16px;
+  color: rgb(83, 83, 88);
+}
+
+#mc_embed_signup .mc-field-group {
+  text-align: left;
+}
+
+#mc_embed_signup form {
+  text-align: center !important;
+}
+
+#mc_embed_signup input {
+  background: #fff !important;
+}
+
+#mc_embed_signup .button {
+  font-size: 20px !important;
+  background: #2d72d9 !important;
+  padding: 0px 10px !important;
+  box-sizing: border-box;
+  color: #fff !important;
+}
+
+#mc_embed_signup .button:hover {
+  background: #2d72d9 !important;
+}
+
+#mc_embed_signup .foot {
+  display: flex !important;
+  width: 100% !important;
+  justify-content: flex-end !important;
+}
+
+#mc_embed_signup span.helper_text, #mc_embed_signup div.helper_text, #mc_embed_signup div.mce_inline_error {
+  background: transparent !important;
+}
+
+input.helper_text, input.mce_inline_error {
+  background-color: #fff !important;
+}
+
+#mc_embed_signup div#mce-responses {
+  width: 100% !important;
+  clear: none !important;
+  float: none !important;
+  display: flex !important;
+  flex-direction: column !important;
+  margin: 0 !important;
+}
+
+.mc-field-group {
+  width: 100% !important;
+}
+
+@media screen and (max-width: 768px) {
+  #mc_embed_signup {
+    padding: 5px !important;
+  }
+  #mc_embed_signup .button {
+    font-size: 16px !important;
+  }
+  #mc_embed_signup p {
+    font-size: 12px !important;
+  }
 }
