@@ -32,8 +32,8 @@ navigation:
     url: /
   - text: About
     url: /about
-  - text: "Web Editor"
-    url: /web-editor
+  - text: "Codity Editor"
+    url: "https://aesthetic-begonia-506ca3.netlify.app/"
   - text: Tags
     url: /tags
 

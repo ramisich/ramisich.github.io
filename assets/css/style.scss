@@ -131,8 +131,8 @@ iframe {
 }
 
 #mc_embed_signup {
-  background: #f0f4fb;
-  border: 2px solid #c6d6ef;
+  background: #e1f3fe;
+  border: 2px solid #c2e0fd;
   border-radius: 10px;
   margin-top: 40px;
   padding: 10px 40px !important;
@@ -142,7 +142,7 @@ iframe {
 
 #mc_embed_signup h2 {
   margin-bottom: 5px !important;
-  letter-spacing: 2px !important;
+  letter-spacing: 0.025em !important;
 }
 
 #mc_embed_signup p {
@@ -168,6 +168,7 @@ iframe {
   padding: 0px 10px !important;
   box-sizing: border-box;
   color: #fff !important;
+  font-size: 16px !important;
 }
 
 #mc_embed_signup .button:hover {
