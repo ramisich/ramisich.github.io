@@ -33,7 +33,7 @@ navigation:
   - text: About
     url: /about
   - text: "Codity Editor"
-    url: "https://aesthetic-begonia-506ca3.netlify.app/"
+    url: "https://codity.netlify.app/"
   - text: Tags
     url: /tags
 
