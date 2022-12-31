@@ -8,7 +8,7 @@ feature_image: images/codity.png
 tags: [web editor, html, css, javascript, prototype, frontend]
 ---
 
-Today, I am happy to announce that [Codity](https://aesthetic-begonia-506ca3.netlify.app/){:target="_blank"} web editor is released. Following is the vision of
+Today, I am happy to announce that [Codity](https://codity.netlify.app/){:target="_blank"} web editor is released. Following is the vision of
 Codity.
 > Codity web editor is born out of curiosity to make it easier for web designers and developers
 > around the world, to quickly prototype and test their
@@ -19,7 +19,7 @@ In this post I will be going through its features, technologies I used to make i
 challenges and learnings but first, take a look
 at an example prototype:
 
-[Pixel art: Homer Simpson](https://aesthetic-begonia-506ca3.netlify.app/prototypes/pKxg_UippklbK7WYpW7Qg){:
+[Pixel art: Homer Simpson](https://codity.netlify.app/prototypes/pKxg_UippklbK7WYpW7Qg){:
 target="_blank"} [code by Yago Estévez].
 <!--more-->
 
