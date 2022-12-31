@@ -19,7 +19,7 @@ In this post I will be going through its features, technologies I used to make i
 challenges and learnings but first, take a look
 at an example prototype:
 
-[Pixel art: Homer Simpson](https://codity.netlify.app/prototypes/pKxg_UippklbK7WYpW7Qg){:
+[Pixel art: Homer Simpson](https://codity.netlify.app/prototypes/7hG1KJg7qIZSJbLqzJD07){:
 target="_blank"} [code by Yago Estévez].
 <!--more-->
 
