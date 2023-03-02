@@ -39,10 +39,10 @@
         id="_carbonads_js"></script>
 <script>
   window.addEventListener("message", (event) => {
-    console.log(event);
-    // if (event.data === 'hi') {
-    //   window.parent.postMessage(document.querySelector('.carbon-img').href, "*");
-    // }
+    if (event.data === '[iFrameSizer]message:"hi"') {
+      console.log('sent');
+      //window.parent.postMessage(document.querySelector('.carbon-img').href, "*");
+    }
 }, false);
 </script>
 
