@@ -40,8 +40,8 @@
 <script>
   window.addEventListener("message", (event) => {
     if (event.data === '[iFrameSizer]message:"hi"') {
-      console.log('sent');
-      //window.parent.postMessage(document.querySelector('.carbon-img').href, "*");
+
+      window.parent.postMessage(document.querySelector('.carbon-img').href, "*");
     }
 }, false);
 </script>
