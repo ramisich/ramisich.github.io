@@ -40,6 +40,7 @@
 <script>
   window.addEventListener("message", (event) => {
     console.log('coming from parent', event);
+    console.log('item', document.querySelector('.carbon-img'))
     document.querySelector('.carbon-img').click();
 }, false);
 </script>
